@@ -13,7 +13,7 @@ class App extends Component {
         />
         <h1>React Random Colour Generator</h1>
         <Random />
-        <p>Click the "Refresh" Button to see some magic happen!</p>
+        <p id="instruction">Click the "Refresh" Button to see some magic happen!</p>
       </div>
     );
   }
